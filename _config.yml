@@ -20,9 +20,9 @@ author: Teo Hebra
 ###############################################
 
 navbar-links:
-  Download: "https://github.com/metgem/metgem/releases/latest"
-  Latest nightly: "https://github.com/metgem/metgem/releases/tag/nightly"
-  Documentation: "https://metgem.readthedocs.io"
+  #Download: "https://github.com/metgem/metgem/releases/latest"
+ #Latest nightly: "https://github.com/metgem/metgem/releases/tag/nightly"
+  #Documentation: "https://metgem.readthedocs.io"
   # About Me: "aboutme"
   # Resources:
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
